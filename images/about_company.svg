@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="440" viewBox="0 0 600 440">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#eef5fc"/><stop offset="1" stop-color="#dbe9f8"/></linearGradient></defs>
+  <rect width="600" height="440" fill="url(#bg)"/>
+  <circle cx="500" cy="90" r="120" fill="#1d6fb8" fill-opacity="0.08"/>
+  <!-- building -->
+  <rect x="180" y="120" width="240" height="240" rx="10" fill="#ffffff" stroke="#cdddee"/>
+  <g fill="#1d6fb8" fill-opacity="0.18">
+    <rect x="205" y="150" width="40" height="34"/><rect x="265" y="150" width="40" height="34"/><rect x="325" y="150" width="40" height="34"/>
+    <rect x="205" y="205" width="40" height="34"/><rect x="265" y="205" width="40" height="34"/><rect x="325" y="205" width="40" height="34"/>
+    <rect x="205" y="260" width="40" height="34"/><rect x="265" y="260" width="40" height="34"/><rect x="325" y="260" width="40" height="34"/>
+  </g>
+  <rect x="280" y="300" width="40" height="60" fill="#c8a45c"/>
+  <!-- people -->
+  <g fill="#14539b">
+    <circle cx="110" cy="300" r="22"/><rect x="86" y="322" width="48" height="60" rx="20"/>
+    <circle cx="490" cy="300" r="22"/><rect x="466" y="322" width="48" height="60" rx="20"/>
+  </g>
+  <text x="190" y="410" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="22" font-weight="800" fill="#0d3a70">资深团队 · 12年专注</text>
+</svg>

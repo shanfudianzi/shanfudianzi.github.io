@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+Disallow: /search.html
+
+Sitemap: https://shanfudianzi.github.io/sitemap.xml
