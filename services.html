@@ -54,6 +54,7 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
+  "@id": "https://shanfudianzi.github.io/index.html#organization",
   "@type": [
     "Organization",
     "LocalBusiness"
@@ -108,53 +109,56 @@
     "areaServed": "CN"
   }
 }
-</script><script type="application/ld+json">
+</script>
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ItemList",
-  "itemListElement": [
+  "@graph": [
     {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "仪器租赁",
-      "url": "https://shanfudianzi.github.io/service_leasing.html"
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "仪器租赁",
+          "url": "https://shanfudianzi.github.io/service_leasing.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "仪器维修保养",
+          "url": "https://shanfudianzi.github.io/service_repair.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "仪器回收",
+          "url": "https://shanfudianzi.github.io/service_recycling.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "实验室移机搬家",
+          "url": "https://shanfudianzi.github.io/service_relocation.html"
+        }
+      ]
     },
     {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "仪器维修保养",
-      "url": "https://shanfudianzi.github.io/service_repair.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "仪器回收",
-      "url": "https://shanfudianzi.github.io/service_recycling.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "实验室移机搬家",
-      "url": "https://shanfudianzi.github.io/service_relocation.html"
-    }
-  ]
-}
-</script><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "首页",
-      "item": "https://shanfudianzi.github.io/index.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "产品服务",
-      "item": "https://shanfudianzi.github.io/services.html"
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首页",
+          "item": "https://shanfudianzi.github.io/index.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "产品服务",
+          "item": "https://shanfudianzi.github.io/services.html"
+        }
+      ]
     }
   ]
 }

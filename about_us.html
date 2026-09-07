@@ -54,6 +54,7 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
+  "@id": "https://shanfudianzi.github.io/index.html#organization",
   "@type": [
     "Organization",
     "LocalBusiness"
@@ -108,22 +109,27 @@
     "areaServed": "CN"
   }
 }
-</script><script type="application/ld+json">
+</script>
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
+  "@graph": [
     {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "首页",
-      "item": "https://shanfudianzi.github.io/index.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "关于我们",
-      "item": "https://shanfudianzi.github.io/about_us.html"
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首页",
+          "item": "https://shanfudianzi.github.io/index.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "关于我们",
+          "item": "https://shanfudianzi.github.io/about_us.html"
+        }
+      ]
     }
   ]
 }

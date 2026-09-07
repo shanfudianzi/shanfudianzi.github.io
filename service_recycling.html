@@ -54,6 +54,7 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
+  "@id": "https://shanfudianzi.github.io/index.html#organization",
   "@type": [
     "Organization",
     "LocalBusiness"
@@ -108,41 +109,49 @@
     "areaServed": "CN"
   }
 }
-</script><script type="application/ld+json">
+</script>
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Service",
-  "name": "仪器回收",
-  "serviceType": "仪器回收",
-  "provider": {
-    "@type": "Organization",
-    "name": "上海善福电子科技有限公司"
-  },
-  "areaServed": "CN",
-  "description": "上海善福提供仪器回收服务，覆盖二手分析仪器仪器回收。"
-}
-</script><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
+  "@graph": [
     {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "首页",
-      "item": "https://shanfudianzi.github.io/index.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "产品服务",
-      "item": "https://shanfudianzi.github.io/services.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
+      "@type": "Service",
       "name": "仪器回收",
-      "item": "https://shanfudianzi.github.io/service_recycling.html"
+      "serviceType": "仪器回收",
+      "provider": {
+        "@id": "https://shanfudianzi.github.io/index.html#organization"
+      },
+      "areaServed": [
+        "上海",
+        "江苏",
+        "浙江",
+        "安徽",
+        "全国"
+      ],
+      "description": "上海善福提供仪器回收服务，覆盖二手分析仪器仪器回收。"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首页",
+          "item": "https://shanfudianzi.github.io/index.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "产品服务",
+          "item": "https://shanfudianzi.github.io/services.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "仪器回收",
+          "item": "https://shanfudianzi.github.io/service_recycling.html"
+        }
+      ]
     }
   ]
 }

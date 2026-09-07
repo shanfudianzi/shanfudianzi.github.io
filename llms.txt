@@ -1,0 +1,41 @@
+# 上海善福电子科技有限公司
+
+> 上海善福电子科技有限公司主营国内外二手分析仪器（液相色谱 HPLC、气相色谱 GC、质谱 MS 等），提供销售、租赁、维修保养、回收与实验室搬迁等全链路服务，服务第三方检测机构与高校科研用户。
+
+## 核心页面
+- [首页](https://shanfudianzi.github.io/index.html) : 公司概况与全站导航入口。
+- [产品服务](https://shanfudianzi.github.io/services.html) : 仪器租赁、维修、回收、搬迁四大服务总览。
+- [产品中心](https://shanfudianzi.github.io/products.html) : 在售二手分析仪器列表（品牌含 Waters、Thermo Fisher、岛津、SCIEX）。
+- [新闻资讯](https://shanfudianzi.github.io/news.html) : 公司动态与行业资讯。
+- [常见问题](https://shanfudianzi.github.io/news_faq.html) : 仪器采购、租赁、维修、回收与搬迁高频问答。
+- [关于我们](https://shanfudianzi.github.io/about_us.html) : 公司介绍与资质。
+- [联系我们](https://shanfudianzi.github.io/contact_us.html) : 电话、邮箱与地址。
+
+## 产品与服务
+- [仪器租赁](https://shanfudianzi.github.io/service_leasing.html) : 按月或按项目灵活租用液相、气相、质谱等分析仪器。
+- [仪器维修](https://shanfudianzi.github.io/service_repair.html) : 配件与经验工程师，提供检测、维修、保养与期间核查。
+- [仪器回收](https://shanfudianzi.github.io/service_recycling.html) : 闲置、停用进口分析仪器现场评估，价格透明、当面结算。
+- [实验室搬迁](https://shanfudianzi.github.io/service_relocation.html) : 实验室整体搬迁与单机移机，含拆装、运输、复装调试与验证。
+
+## 新闻资讯
+- [公司新闻](https://shanfudianzi.github.io/news_company.html)
+- [行业资讯](https://shanfudianzi.github.io/news_industry.html)
+
+## 常见问题（精选）
+- [二手分析仪器如何保证质量？](https://shanfudianzi.github.io/news_faq.html#q1)
+- [仪器租赁和采购哪个更划算？](https://shanfudianzi.github.io/news_faq.html#q2)
+- [主营哪些品牌和仪器类型？](https://shanfudianzi.github.io/news_faq.html#q3)
+- [二手仪器租赁怎么收费？](https://shanfudianzi.github.io/news_faq.html#q4)
+- [租赁可以转购买吗？](https://shanfudianzi.github.io/news_faq.html#q6)
+- [维修响应时间一般多久？](https://shanfudianzi.github.io/news_faq.html#q7)
+- [维修使用正品配件吗？](https://shanfudianzi.github.io/news_faq.html#q8)
+- [哪些仪器可以维修？](https://shanfudianzi.github.io/news_faq.html#q9)
+- [闲置仪器回收如何估价？](https://shanfudianzi.github.io/news_faq.html#q10)
+- [回收后数据会泄露吗？](https://shanfudianzi.github.io/news_faq.html#q11)
+- [回收结算快吗？](https://shanfudianzi.github.io/news_faq.html#q12)
+- [实验室搬迁会损坏仪器吗？](https://shanfudianzi.github.io/news_faq.html#q13)
+
+## 联系方式
+- 电话：+86-13641683222
+- 邮箱：shanfudianzi-services@outlook.com
+- 地址：临港嘉定科技城

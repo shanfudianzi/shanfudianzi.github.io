@@ -1,4 +1,33 @@
 User-agent: *
 Allow: /
 
+# 国内搜索引擎 / AI 爬虫
+User-agent: Baiduspider
+Allow: /
+User-agent: Bytespider
+Allow: /
+User-agent: QuarkSpider
+Allow: /
+User-agent: 360Spider
+Allow: /
+User-agent: Sogou
+Allow: /
+User-agent: YisouSpider
+Allow: /
+
+# 国际 AI / 通用检索爬虫（可被 ChatGPT / Claude / Perplexity / Google 引用；
+# 若不愿内容用于模型训练，可删除 GPTBot / ClaudeBot / Google-Extended 三条）
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
 Sitemap: https://shanfudianzi.github.io/sitemap.xml

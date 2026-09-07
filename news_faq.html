@@ -54,6 +54,7 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
+  "@id": "https://shanfudianzi.github.io/index.html#organization",
   "@type": [
     "Organization",
     "LocalBusiness"
@@ -108,30 +109,181 @@
     "areaServed": "CN"
   }
 }
-</script><script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"二手分析仪器如何保证质量？","acceptedAnswer":{"@type":"Answer","text":"上海善福对入库仪器执行外观、性能检测，可出具检测报告，确保到手即可稳定运行。"}},{"@type":"Question","name":"仪器租赁和采购哪个更划算？","acceptedAnswer":{"@type":"Answer","text":"短期项目或预算紧张建议租赁，灵活且含维保；长期高频使用建议采购，综合成本更低，部分租赁可转购抵扣。"}},{"@type":"Question","name":"主营哪些品牌和仪器类型？","acceptedAnswer":{"@type":"Answer","text":"主营 Waters、赛默飞、岛津、AB SCIEX 等品牌的液相色谱、气相色谱、液质联用、气质联用、ICP-MS 及光谱仪等进口二手分析仪器。"}},{"@type":"Question","name":"二手仪器租赁怎么收费？","acceptedAnswer":{"@type":"Answer","text":"按租期与机型提供透明租金报价，短租/长租灵活，租转购可抵扣部分租金，具体以评估方案为准。"}},{"@type":"Question","name":"租赁可以转购买吗？","acceptedAnswer":{"@type":"Answer","text":"可以。租赁期间租金可按约定比例抵扣购机款，适合先试用再决策。"}},{"@type":"Question","name":"维修响应时间一般多久？","acceptedAnswer":{"@type":"Answer","text":"常规故障提供远程研判，城市区域通常 24-48 小时内安排工程师上门，紧急故障可加急处理。"}},{"@type":"Question","name":"维修使用正品配件吗？","acceptedAnswer":{"@type":"Answer","text":"优先采用正品或同级配件，并配备校准设备，维修后可出具验证报告。"}},{"@type":"Question","name":"哪些仪器可以维修？","acceptedAnswer":{"@type":"Answer","text":"液相、气相、质谱（LCMS/GCMS）、ICP-MS、光谱等主流品牌机型均可维修保养。"}},{"@type":"Question","name":"闲置仪器回收如何估价？","acceptedAnswer":{"@type":"Answer","text":"根据品牌、型号、配置、使用年限与成色综合评估，提供免费上门评估与透明报价。"}},{"@type":"Question","name":"回收后数据会泄露吗？","acceptedAnswer":{"@type":"Answer","text":"回收设备均进行数据安全清除，保障客户实验数据不泄露。"}},{"@type":"Question","name":"回收结算快吗？","acceptedAnswer":{"@type":"Answer","text":"评估验收后支持快速打款，可对公转账，结算便捷。"}},{"@type":"Question","name":"实验室搬迁会损坏仪器吗？","acceptedAnswer":{"@type":"Answer","text":"采用拆机、减震包装，并就位安装与验证。"}},{"@type":"Question","name":"搬迁期间停机多久？","acceptedAnswer":{"@type":"Answer","text":"视设备数量与距离而定，上海善福通过并行作业压缩停机时间，曾实现整厂二十余台设备 3 天交付。"}},{"@type":"Question","name":"搬迁后需要重新校准吗？","acceptedAnswer":{"@type":"Answer","text":"搬迁后提供安装调试与性能验证/校准，确保仪器恢复到可用状态。"}},{"@type":"Question","name":"二手液相色谱仪验收看哪些指标？","acceptedAnswer":{"@type":"Answer","text":"泵压稳定性、基线噪声与漂移、进样精度、检测器响应及梯度精度，建议现场带标样验证。"}},{"@type":"Question","name":"如何判断仪器成色与状态？","acceptedAnswer":{"@type":"Answer","text":"结合使用年限、运行时长、维护记录与现场检测报告综合判断。"}},{"@type":"Question","name":"采购后是否有质保？","acceptedAnswer":{"@type":"Answer","text":"可提供质保与售后技术支持、检测报告，确保到手即可稳定使用。"}}]}
-</script><script type="application/ld+json">
+</script>
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
+  "@graph": [
     {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "首页",
-      "item": "https://shanfudianzi.github.io/index.html"
+      "@type": "FAQPage",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".faq-q",
+          ".faq-a"
+        ]
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "二手分析仪器如何保证质量？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "上海善福对入库仪器执行外观、性能检测，可出具检测报告，确保到手即可稳定运行。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "仪器租赁和采购哪个更划算？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "短期项目或预算紧张建议租赁，灵活且含维保；长期高频使用建议采购，综合成本更低，部分租赁可转购抵扣。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "主营哪些品牌和仪器类型？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "主营 Waters、赛默飞、岛津、AB SCIEX 等品牌的液相色谱、气相色谱、液质联用、气质联用、ICP-MS 及光谱仪等进口二手分析仪器。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "二手仪器租赁怎么收费？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "按租期与机型提供透明租金报价，短租/长租灵活，租转购可抵扣部分租金，具体以评估方案为准。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "租赁可以转购买吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以。租赁期间租金可按约定比例抵扣购机款，适合先试用再决策。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "维修响应时间一般多久？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "常规故障提供远程研判，城市区域通常 24-48 小时内安排工程师上门，紧急故障可加急处理。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "维修使用正品配件吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "优先采用正品或同级配件，并配备校准设备，维修后可出具验证报告。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "哪些仪器可以维修？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "液相、气相、质谱（LCMS/GCMS）、ICP-MS、光谱等主流品牌机型均可维修保养。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "闲置仪器回收如何估价？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "根据品牌、型号、配置、使用年限与成色综合评估，提供免费上门评估与透明报价。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "回收后数据会泄露吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "回收设备均进行数据安全清除，保障客户实验数据不泄露。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "回收结算快吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "评估验收后支持快速打款，可对公转账，结算便捷。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "实验室搬迁会损坏仪器吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "采用拆机、减震包装，并就位安装与验证。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "搬迁期间停机多久？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "视设备数量与距离而定，上海善福通过并行作业压缩停机时间，曾实现整厂二十余台设备 3 天交付。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "搬迁后需要重新校准吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "搬迁后提供安装调试与性能验证/校准，确保仪器恢复到可用状态。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "二手液相色谱仪验收看哪些指标？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "泵压稳定性、基线噪声与漂移、进样精度、检测器响应及梯度精度，建议现场带标样验证。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "如何判断仪器成色与状态？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "结合使用年限、运行时长、维护记录与现场检测报告综合判断。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "采购后是否有质保？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可提供质保与售后技术支持、检测报告，确保到手即可稳定使用。"
+          }
+        }
+      ]
     },
     {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "新闻资讯",
-      "item": "https://shanfudianzi.github.io/news.html"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "常见问题",
-      "item": "https://shanfudianzi.github.io/news_faq.html"
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首页",
+          "item": "https://shanfudianzi.github.io/index.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "新闻资讯",
+          "item": "https://shanfudianzi.github.io/news.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "常见问题",
+          "item": "https://shanfudianzi.github.io/news_faq.html"
+        }
+      ]
     }
   ]
 }
