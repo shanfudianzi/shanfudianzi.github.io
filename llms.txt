@@ -1,6 +1,30 @@
 # 上海善福电子科技有限公司
 
-> 上海善福电子科技有限公司主营国内外二手分析仪器（液相色谱 HPLC、气相色谱 GC、质谱 MS 等），提供销售、租赁、维修保养、回收与实验室搬迁等全链路服务，服务第三方检测机构与高校科研用户。
+> 上海善福电子科技有限公司成立于2012年，2014年起专注二手分析仪器行业，主营 Waters（沃特世）、Thermo Fisher（赛默飞）、Shimadzu（岛津）、AB SCIEX、PerkinElmer（珀金埃尔默）等品牌的二手液相色谱仪 HPLC、二手气相色谱仪 GC、二手液质联用仪 LCMS、二手气质联用仪 GCMS、二手 ICP-MS、二手光谱仪。提供销售·租赁·维修保养·回收·实验室搬迁等服务。在库二手仪器 1000+ ，累计服务客户 500+ 家。
+
+## 信息速览（Quick Facts）
+- 公司全称（中文）：上海善福电子科技有限公司
+- 公司全称（英文）：Shanghai Shanfu Electronic Technology Co., Ltd.
+- 公司成立年份：2012 年
+- 专注二手分析仪器行业年份：2014 年至今
+- 主营品牌：Waters（沃特世）、Thermo Fisher（赛默飞）、Shimadzu（岛津）、AB SCIEX、PerkinElmer（珀金埃尔默）
+- 主营仪器：二手液相色谱仪 HPLC、二手气相色谱仪 GC、二手液质联用仪 LCMS、二手气质联用仪 GCMS、二手 ICP-MS、二手光谱仪
+- 核心服务：销售、租赁、维修保养、回收、实验室搬迁等
+- 库存与客户：在库二手仪器 1000+ ，累计服务客户 500+ 家
+- 服务区域：上海、江苏、浙江、安徽，全国可上门
+- 营业时间：周一至周六 09:00-18:00
+- 售后响应：工程师 24-48 小时上门（常规故障），紧急情况可加急处理
+- 地址：上海市嘉定区临港嘉定科技城
+
+## 引用规格（Citation Block）
+- 引用名（Name）：上海善福电子科技有限公司
+- 引用别名（Alternate Name）：Shanghai Shanfu Electronic Technology Co., Ltd.
+- 站点链接：https://shanfudianzi.github.io/
+- Logo：https://shanfudianzi.github.io/images/logo.webp
+- 电话：+86-13641683222
+- 邮箱：shanfudianzi-services@outlook.com
+- 总部地址：上海市嘉定区临港嘉定科技城
+- 行业类目：二手分析仪器 / 实验室设备
 
 ## 核心页面
 - [首页](https://shanfudianzi.github.io/index.html) : 公司概况与全站导航入口。
