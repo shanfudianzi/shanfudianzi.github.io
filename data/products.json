@@ -214,5 +214,41 @@
     "seq": 10,
     "added": "2026-09-28",
     "intro": "上海善福现货一台赛默飞 Thermo Fisher Vanquish UHPLC 超高效液相色谱系统，分辨率高、分析速度快，适用于食品、环境等样品的高通量定量分析。本台仪器经检测，成色良好、运行稳定，可提供检测报告、安装调试与操作培训。"
+  },
+  {
+    "slug": "used-202609-Thermo-ics-5000-plus",
+    "img": "used-202609-Thermo-ics-5000-plus.jpg",
+    "title": "赛默飞 Thermo Fisher ICS-5000+ 离子色谱仪",
+    "cat": "离子色谱 IC",
+    "tagline": "ICS-5000+ 离子色谱系统，梯度淋洗、电解抑制、电导/电化学检测兼备，适用于离子型化合物分析。",
+    "brand": "赛默飞",
+    "rec": 1,
+    "seq": 11,
+    "added": "2026-09-29",
+    "intro": "上海善福二手分析仪器供应赛默飞 Thermo Fisher ICS-5000+ 离子色谱仪（IC），采用高压梯度淋洗与电解抑制技术，背景电导低、灵敏度高，适用于环境水质、食品与制药等领域的阴离子、阳离子分析。本台仪器经检测，成色良好、运行稳定，可提供检测报告、安装调试与操作培训。"
+  },
+  {
+    "slug": "used-202609-Thermo-tsq-altis-plus-lcms",
+    "img": "used-202609-Thermo-tsq-altis-plus-lcms.jpg",
+    "title": "赛默飞 Thermo Fisher TSQ Altis Plus 三重四极杆质谱仪",
+    "cat": "液质联用 LCMS",
+    "tagline": "TSQ Altis Plus 三重四极杆液质联用质谱仪（LCMS/MS），高灵敏靶向定量，适合高通量痕量分析。",
+    "brand": "赛默飞",
+    "rec": 1,
+    "seq": 12,
+    "added": "2026-09-29",
+    "intro": "上海善福二手分析仪器供应赛默飞 Thermo Fisher TSQ Altis Plus 三重四极杆液相色谱-质谱联用仪（LCMS/MS），高灵敏度、高选择性的靶向定量分析，扫描速度与极性切换快，适合农兽药残留、生物样本、代谢物等痕量分析。本台仪器经检测，成色良好、运行稳定，可提供检测报告、安装调试与操作培训。"
+  },
+  {
+    "slug": "used-202609-Thermo-u3000-uhplc",
+    "img": "used-202609-Thermo-u3000-uhplc.jpg",
+    "title": "赛默飞 Thermo Fisher UltiMate 3000 液相色谱系统 U3000（二手现货）",
+    "cat": "液相色谱 HPLC",
+    "tagline": "UltiMate 3000 液相色谱系统（HPLC/UHPLC），梯度稳定、兼容多检测器，适合高通量定量。",
+    "brand": "赛默飞",
+    "rec": 1,
+    "seq": 13,
+    "added": "2026-09-29",
+    "intro": "上海善福二手分析仪器现货供应赛默飞 Thermo Fisher UltiMate 3000 液相色谱系统（HPLC/UHPLC），兼容等度/梯度、二元/四元多种配置，泵压稳定、梯度精度高，适用于食品、环境、制药等样品的高通量定量分析。本台仪器经检测，成色良好、运行稳定，可提供检测报告、安装调试与操作培训。"
   }
 ]
