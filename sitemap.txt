@@ -1,5 +1,5 @@
 # 上海善福电子科技有限公司 网站地图
-# 生成时间：2026-10-21
+# 生成时间：2026-10-28
 https://shanfudianzi.github.io/index.html
 https://shanfudianzi.github.io/services.html
 https://shanfudianzi.github.io/service_leasing.html
@@ -50,3 +50,4 @@ https://shanfudianzi.github.io/products/used-202610-sciex-triple-quad-7500-lcms.
 https://shanfudianzi.github.io/products/used-202610-sciex-qtrap-6500-plus-and-exionlc-lcms.html
 https://shanfudianzi.github.io/products/used-202610-sciex-qtrap-4500-lcms.html
 https://shanfudianzi.github.io/news/c-new-sciex-qtrap-4500.html
+https://shanfudianzi.github.io/news/c-services-intro.html
