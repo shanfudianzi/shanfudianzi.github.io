@@ -1,5 +1,5 @@
 # 上海善福电子科技有限公司 网站地图
-# 生成时间：2026-11-06
+# 生成时间：2026-11-09
 https://shanfudianzi.github.io/index.html
 https://shanfudianzi.github.io/services.html
 https://shanfudianzi.github.io/service_leasing.html
@@ -60,3 +60,6 @@ https://shanfudianzi.github.io/products/used-202611-sciex-tq5500-eksigent-ultral
 https://shanfudianzi.github.io/news/c-new-sciex-tq5500-eksigent-ultralc.html
 https://shanfudianzi.github.io/products/used-202611-thermo-orbitrap-exploris-240-vanquish-lcms.html
 https://shanfudianzi.github.io/products/used-202611-thermo-orbitrap-exploris-240-lcms.html
+https://shanfudianzi.github.io/products/used-202611-thermo-orbitrap-astral-vanquish-uhplc-lcms.html
+https://shanfudianzi.github.io/products/used-202611-thermo-orbitrap-astral-lcms.html
+https://shanfudianzi.github.io/news/c-orbitrap-vanquish-lcms-supply.html
