@@ -530,5 +530,33 @@
     "intro": "上海善福电子科技有限公司，二手现货，Waters（沃特世）Xevo TQ 三重四极杆质谱仪，搭配 ACQUITY UPLC 超高效液相色谱系统，组成 LC-MS/MS 液质联用平台。Xevo TQ 三重四极杆以 MRM 多反应监测实现高灵敏度与宽线性动态范围的靶向定量；ACQUITY UPLC 提供高分离度、低扩散的液相梯度与自动进样，适用于药代动力学、生物分析、农兽药残留、环境与食品等痕量定量分析。本套仪器经检测，成色良好、运行稳定，可提供检测报告、安装调试与操作培训。",
     "dateCreated": "2026-11-16T00:00:00+08:00",
     "dateModified": "2026-11-17T14:42:59+08:00"
+  },
+  {
+    "slug": "used-202611-cytiva-sefia-s-2000",
+    "img": "used-202611-cytiva-sefia-s-2000.jpg",
+    "title": "思拓凡 Cytiva Sefia S-2000 全自动细胞处理系统（二手现货）",
+    "cat": "细胞处理系统",
+    "tagline": "思拓凡 Cytiva（原 GE 旗下）Sefia S-2000 全自动细胞处理系统，功能封闭式细胞制备平台，上游分离/下游收获一机多用，二手现货成色良好。",
+    "brand": "Cytiva（思拓凡）",
+    "rec": 1,
+    "seq": 33,
+    "added": "2026-11-19",
+    "intro": "上海善福电子科技有限公司，二手现货供应思拓凡 Cytiva（原 GE 旗下）Sefia S-2000 全自动细胞处理系统。可在功能封闭体系内自动完成细胞分离、去除、浓缩洗涤、终产物制剂分装等上游与下游处理步骤。本台仪器经检测，成色良好、运行稳定，可提供检测报告、安装调试与操作培训。",
+    "dateCreated": "2026-11-19T00:00:00+08:00",
+    "dateModified": "2026-11-19T16:09:21+08:00"
+  },
+  {
+    "slug": "used-202611-cytiva-AKTA-oligopilot-plus",
+    "img": "used-202611-cytiva-AKTA-oligopilot-plus.jpg",
+    "title": "Cytiva（思拓凡）ÄKTA oligopilot plus 寡核苷酸合成仪（二手供应）",
+    "cat": "寡核苷酸合成仪",
+    "tagline": "Cytiva（思拓凡）ÄKTA oligopilot plus 全自动 DNA/RNA 寡核苷酸合成仪，流通式反应器技术、低试剂消耗，二手供应，成色良好。",
+    "brand": "Cytiva（思拓凡）",
+    "rec": 1,
+    "seq": 34,
+    "added": "2026-11-19",
+    "intro": "上海善福电子科技有限公司，二手供应 Cytiva（思拓凡）ÄKTA oligopilot plus 全自动寡核苷酸合成仪。该机为泵驱动紧凑型系统，采用流通式反应器技术，可减少试剂消耗。适用于多种寡核苷酸化学与疗法（RNAi、siRNA、适配体等）的研究与工艺开发。本台仪器经检测，成色良好、运行稳定，可提供安装调试与操作培训。",
+    "dateCreated": "2026-11-19T00:00:00+08:00",
+    "dateModified": "2026-11-19T16:13:37+08:00"
   }
 ]
