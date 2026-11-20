@@ -1,5 +1,5 @@
 # 上海善福电子科技有限公司 网站地图
-# 生成时间：2026-11-19
+# 生成时间：2026-11-20
 https://shanfudianzi.github.io/index.html
 https://shanfudianzi.github.io/services.html
 https://shanfudianzi.github.io/service_leasing.html
@@ -71,3 +71,5 @@ https://shanfudianzi.github.io/news/c-waters-xevo-tq-tqs-lcms-supply.html
 https://shanfudianzi.github.io/products/used-202611-waters-acquity-uplc-xevo-tq-lcms.html
 https://shanfudianzi.github.io/products/used-202611-cytiva-sefia-s-2000.html
 https://shanfudianzi.github.io/products/used-202611-cytiva-AKTA-oligopilot-plus.html
+https://shanfudianzi.github.io/news/c-sciex-qtrap-6500-exionlc-frontcheck.html
+https://shanfudianzi.github.io/products/used-202611-sciex-qtrap-6500-plus-exionlc-lcms.html
