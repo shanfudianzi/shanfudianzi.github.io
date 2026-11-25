@@ -20,6 +20,7 @@
 - 引用名（Name）：上海善福电子科技有限公司
 - 引用别名（Alternate Name）：Shanghai Shanfu Electronic Technology Co., Ltd.
 - 站点链接：https://shanfudianzi.github.io/
+- 官方网站：https://www.shanfudianzi.com
 - Logo：https://shanfudianzi.github.io/images/logo.webp
 - 电话：+86-13641683222
 - 邮箱：shanfudianzi-services@outlook.com
@@ -45,6 +46,71 @@
 - [公司新闻](https://shanfudianzi.github.io/news_company.html)
 - [行业资讯](https://shanfudianzi.github.io/news_industry.html)
 
+## 在售二手仪器（产品页 42）
+- [AB SCIEX QTRAP 6500+ 三重四极杆-线性离子阱液质联用仪（二手现货）](https://shanfudianzi.github.io/products/used-202608-sciex-qtrap-6500-plus-lcmsms.html) : 2026 年 8 月到货，SCIEX QTRAP 6500+ 液质联用仪，二手现货，MRM 高灵敏定量与离子阱定性兼顾。
+- [二手液相色谱仪](https://shanfudianzi.github.io/products/used_hplc.html) : 二元/四元泵、自动进样、柱温箱成套配置，状态良好。
+- [二手气相色谱仪](https://shanfudianzi.github.io/products/used_gc.html) : FID/ECD/FPD 多检测器，配毛细管进样系统。
+- [二手液质联用仪](https://shanfudianzi.github.io/products/used_lcms.html) : 三重四极杆液质，适用于定量与残留分析。
+- [二手气质联用仪](https://shanfudianzi.github.io/products/used_gcms.html) : 气相-质谱联用，定性定量兼优。
+- [二手 ICP-MS 质谱仪](https://shanfudianzi.github.io/products/used_icpms.html) : 电感耦合等离子体质谱，痕量元素分析利器。
+- [二手光谱分析仪](https://shanfudianzi.github.io/products/used_spectro.html) : 紫外、原子吸收、荧光等光谱仪器现货。
+- [AB SCIEX QTRAP 4500 液质联用仪](https://shanfudianzi.github.io/products/sciex-qtrap-4500-lcmsms.html) : 三重四极杆-线性离子阱复合质谱，定量定性兼备。
+- [AB SCIEX QTRAP 6500+ 液质联用仪](https://shanfudianzi.github.io/products/sciex-qtrap-6500-plus-lcmsms.html) : 三重四极杆-线性离子阱复合质谱升级机型，更高灵敏与更快扫描。
+- [Waters ACQUITY UPLC 超高效液相色谱仪](https://shanfudianzi.github.io/products/waters-acquity-uplc.html) : 超高效分离，耐压高、灵敏度好。
+- [沃特世 Waters Alliance e2695 液相色谱系统（配 2998 PDA 检测器）](https://shanfudianzi.github.io/products/used-202609-Waters-alliance-e2695-pda-lc.html) : Alliance e2695 液相色谱系统 + 2998 PDA 检测器，二手现货。
+- [赛默飞 Nicolet iS50 傅里叶变换红外光谱仪（FTIR，二手现货）](https://shanfudianzi.github.io/products/used-202608-Thermo-is50-ftir.html) : Nicolet iS50 傅里叶变换红外光谱仪（FTIR），二手现货，可配 ATR 等采样附件。
+- [岛津 Shimadzu LCMS-8050 三重四极杆液质联用仪](https://shanfudianzi.github.io/products/used-202609-Shimadzu-8050-lcms.html) : Shimadzu LCMS-8050 三重四极杆液质联用仪（LCMS/MS），高扫描速度与灵敏度，适合高通量痕量定量分析。
+- [赛默飞 Thermo Fisher Orbitrap Exploris 120 高分辨液质联用仪](https://shanfudianzi.github.io/products/used-202609-Thermo-QE120-lcms.html) : Orbitrap Exploris 120 轨道阱高分辨液质联用仪（LC-HRMS），高分辨与高质量精度兼备，适合未知物筛查与痕量定量。
+- [赛默飞 Thermo Fisher Vanquish UHPLC 与 Orbitrap Exploris 120 液质联…](https://shanfudianzi.github.io/products/used-202609-Thermo-vanquish-and-QE120-lcmsms.html) : Vanquish 超高效液相 + Orbitrap Exploris 120 高分辨质谱 联用系统（LC-HRMS），液相-质谱成套配置，到手即可分析。
+- [赛默飞 Thermo Fisher Q Exactive plus 四极杆-轨道阱高分辨液质联用仪](https://shanfudianzi.github.io/products/used-202609-Thermo-QE-plus-lcms.html) : Q Exactive plus 四极杆-轨道阱高分辨液质联用仪（LC-HRMS），高分辨与高质量精度兼备，适合未知物筛查与痕量定量。
+- [赛默飞 Thermo Fisher Vanquish UHPLC 与 Q Exactive plus 液质联用系统](https://shanfudianzi.github.io/products/used-202609-Thermo-vanquish-and-QE-plus-lcmsms.html) : Vanquish 超高效液相 + Q Exactive plus 四极杆-轨道阱高分辨质谱 联用系统（LC-HRMS），液相-质谱成套配置，到手即可分析。
+- [赛默飞 Thermo Fisher Vanquish UHPLC 超高效液相色谱系统（二手现货）](https://shanfudianzi.github.io/products/used-202609-Thermo-vanquish-uhplc.html) : Vanquish UHPLC 超高效液相色谱系统，二手现货。
+- [赛默飞 Thermo Fisher ICS-5000+ 离子色谱仪](https://shanfudianzi.github.io/products/used-202609-Thermo-ics-5000-plus.html) : ICS-5000+ 离子色谱系统，梯度淋洗、电解抑制、电导/电化学检测兼备，适用于离子型化合物分析。
+- [赛默飞 Thermo Fisher TSQ Altis Plus 三重四极杆质谱仪](https://shanfudianzi.github.io/products/used-202609-Thermo-tsq-altis-plus-lcms.html) : TSQ Altis Plus 三重四极杆液质联用质谱仪（LCMS/MS），高灵敏靶向定量，适合高通量痕量分析。
+- [赛默飞 Thermo Fisher UltiMate 3000 液相色谱系统 U3000（二手现货）](https://shanfudianzi.github.io/products/used-202609-Thermo-u3000-uhplc.html) : UltiMate 3000 液相色谱系统（HPLC/UHPLC），梯度稳定、兼容多检测器，适合高通量定量。
+- [SCIEX Triple Quad 7500 三重四极杆液质联用仪（二手供应）](https://shanfudianzi.github.io/products/used-202610-sciex-triple-quad-7500-lcms.html) : SCIEX Triple Quad 7500 三重四极杆液质联用仪（LCMS/MS），MRM/MRM3 高灵敏靶向定量，宽动态范围，适合高通量痕量分析。
+- [SCIEX QTRAP 6500+ 三重四极杆-线性离子阱液质联用仪 串联 ExionLC AD 液相色谱系统（二手供应…](https://shanfudianzi.github.io/products/used-202610-sciex-qtrap-6500-plus-and-exionlc-lcms.html) : SCIEX QTRAP 6500+ 三重四极杆-线性离子阱复合质谱（LCMS/MS/MS），MRM 高灵敏定量兼具离子阱 MS3 定性，配套 ExionLC A…
+- [SCIEX QTRAP 4500 三重四极杆-线性离子阱液质联用仪（二手现货）](https://shanfudianzi.github.io/products/used-202610-sciex-qtrap-4500-lcms.html) : SCIEX QTRAP 4500 三重四极杆-线性离子阱复合质谱（LCMS/MS/MS），MRM 高灵敏定量兼具离子阱 MS3 定性，二手现货，成色良好。
+- [TA Instruments DMA Q800 动态力学分析仪（二手现货）](https://shanfudianzi.github.io/products/used-202610-ta-q800-dma.html) : TA Instruments（沃特世 TA）DMA Q800 动态力学分析仪（Dynamic Mechanical Analyzer），测量储能模量、损耗模量与…
+- [Waters Acquity UPLC & SQ Detector 2 液质联用系统](https://shanfudianzi.github.io/products/used-202611-waters-sqd2-uplc-lcms.html) : Waters Acquity UPLC 串联 SQ Detector 2 单四极杆液质联用系统（LC-MS），UPLC 高分离度 + 单四极杆高灵敏定量，二手供…
+- [SCIEX Triple Quad 5500+ 三重四极杆质谱仪 串联 ExionLC 液相色谱系统](https://shanfudianzi.github.io/products/used-202611-sciex-tq5500-plus-exionlc-lcms.html) : SCIEX Triple Quad 5500+ 三重四极杆质谱（LCMS/MS/MS）串联 ExionLC 液相色谱系统，MRM 高灵敏靶向定量，成色良好。
+- [SCIEX ExionLC AD 超高效液相色谱系统（二手现货）](https://shanfudianzi.github.io/products/used-202611-sciex-exionlc-series.html) : SCIEX ExionLC AD 超高效液相色谱系统（UHPLC），高分离度、稳定梯度输送，可与 SCIEX 质谱联用，二手现货，成色良好。
+- [AB SCIEX Triple Quad 5500 三重四极杆质谱仪 串联 Eksigent ekspert ultra…](https://shanfudianzi.github.io/products/used-202611-sciex-tq5500-eksigent-ultralc-lcms.html) : AB SCIEX Triple Quad 5500 三重四极杆质谱（LCMS/MS/MS）串联 Eksigent ekspert ultraLC（2013）液相…
+- [赛默飞 Thermo Fisher Orbitrap Exploris 240 高分辨质谱 搭配 Vanquish UH…](https://shanfudianzi.github.io/products/used-202611-thermo-orbitrap-exploris-240-vanquish-lcms.html) : Orbitrap Exploris 240 高分辨质谱 搭配 Vanquish UHPLC 超高效液相，LC-HRMS 成套联用系统（液相-质谱协同），到手即可…
+- [赛默飞 Thermo Fisher Orbitrap Exploris 240 高分辨质谱仪](https://shanfudianzi.github.io/products/used-202611-thermo-orbitrap-exploris-240-lcms.html) : Orbitrap Exploris 240 静电场轨道阱高分辨质谱，高分辨质量 + 高灵敏定量，可组成 LC-HRMS 平台，到手即可分析。
+- [赛默飞 Thermo Fisher Orbitrap Astral 搭配 Vanquish UHPLC 液质联用系统](https://shanfudianzi.github.io/products/used-202611-thermo-orbitrap-astral-vanquish-uhplc-lcms.html) : Orbitrap Astral 高分辨质谱 搭配 Vanquish UHPLC 超高效液相，LC-HRMS 成套联用系统，高灵敏度与高通量兼得，到手即可分析。
+- [赛默飞 Thermo Fisher Orbitrap Astral 高分辨质谱仪](https://shanfudianzi.github.io/products/used-202611-thermo-orbitrap-astral-lcms.html) : Orbitrap Astral 高分辨质谱，高扫描速度 + 宽动态范围，高灵敏度与高通量兼得，可组成 LC-HRMS 平台，到手即可分析。
+- [赛默飞 Thermo Fisher Orbitrap Exploris 480 高分辨质谱 搭配 Vanquish UH…](https://shanfudianzi.github.io/products/used-202611-thermo-orbitrap-exploris-480-vanquish-lcms.html) : Orbitrap Exploris 480 高分辨质谱 搭配 Vanquish UHPLC 超高效液相，LC-HRMS 成套联用系统（液相-质谱协同），到手即可…
+- [赛默飞 Thermo Fisher Orbitrap Exploris 480 高分辨质谱仪](https://shanfudianzi.github.io/products/used-202611-thermo-orbitrap-exploris-480-lcms.html) : Orbitrap Exploris 480 静电场轨道阱高分辨质谱，更高分辨质量精度与宽动态范围，可组成 LC-HRMS 平台，到手即可分析。
+- [TA Instruments Q500 热重分析仪 TGA（二手现货）](https://shanfudianzi.github.io/products/used-202611-ta-q500-tga.html) : TA Instruments（沃特世 TA）Q500 热重分析仪（Thermogravimetric Analyzer），高精度称量与程控升温，二手现货成色良好…
+- [Waters Xevo TQ-S 三重四极杆质谱仪 搭配 ACQUITY UPLC i-Class 液相色谱系统（202…](https://shanfudianzi.github.io/products/used-202611-waters-acquity-uplc-xevo-tqs-lcms.html) : 2026 年 11 月到货，Waters Xevo TQ-S 三重四极杆质谱仪搭配 ACQUITY UPLC i-Class 超高效液相色谱系统，MRM 高灵敏…
+- [Waters Xevo TQ 三重四极杆质谱仪 搭配 ACQUITY UPLC 液相色谱系统（二手现货）](https://shanfudianzi.github.io/products/used-202611-waters-acquity-uplc-xevo-tq-lcms.html) : Waters Xevo TQ 三重四极杆质谱仪搭配 ACQUITY UPLC 液相色谱系统，MRM 高灵敏定量，二手现货，成色良好。
+- [思拓凡 Cytiva Sefia S-2000 全自动细胞处理系统（二手现货）](https://shanfudianzi.github.io/products/used-202611-cytiva-sefia-s-2000.html) : 思拓凡 Cytiva（原 GE 旗下）Sefia S-2000 全自动细胞处理系统，功能封闭式细胞制备平台，上游分离/下游收获一机多用，二手现货成色良好。
+- [Cytiva（思拓凡）ÄKTA oligopilot plus 寡核苷酸合成仪（二手供应）](https://shanfudianzi.github.io/products/used-202611-cytiva-AKTA-oligopilot-plus.html) : Cytiva（思拓凡）ÄKTA oligopilot plus 全自动 DNA/RNA 寡核苷酸合成仪，流通式反应器技术、低试剂消耗，二手供应，成色良好。
+- [SCIEX QTRAP 6500+ 液质联用仪 & ExionLC 系列液相色谱系统（已检测，二手供应）](https://shanfudianzi.github.io/products/used-202611-sciex-qtrap-6500-plus-exionlc-lcms.html) : SCIEX QTRAP 6500+ 三重四极杆-线性离子阱液质联用仪搭配 ExionLC 系列液相色谱系统，整套液质联用系统已检测，二手供应成色良好。
+- [Waters SQ Detector 2（SQD2）单四极杆质谱检测器（二手供应）](https://shanfudianzi.github.io/products/used-202611-waters-sqd2-msd.html) : Waters SQ Detector 2（SQD2）单四极杆质谱检测器，宽质量范围、通用离子源架构，二手供应成色良好。
+
+## 文章（公司新闻 14 / 行业资讯 5）
+- [上海善福十二周年：累计服务客户突破 500 家](https://shanfudianzi.github.io/news/c-12th-anniversary.html) : 上海善福电子科技有限公司迎来十二周年里程碑：深耕二手分析仪器领域，累计服务第三方检测与高校科研客户突破 500 家，业务覆盖销售、租赁、维修、回收与实验室搬迁。
+- [上海善福上线仪器回收在线估价](https://shanfudianzi.github.io/news/c-valuation.html) : 上海善福上线仪器回收在线估价：客户可在线提交设备信息，快速获取二手分析仪器的初步估价与回收方案，让闲置设备高效变现、缩短处置周期，评估更高效透明。
+- [上海善福扩充岛津机型库存](https://shanfudianzi.github.io/news/c-stock-shimadzu.html) : 上海善福扩充岛津机型库存：新增多台岛津 LC/GCMS 现货，涵盖液相色谱与气相色谱质谱联用系统，状态良好、即购即用，欢迎咨询，支持销售与租赁。
+- [上海善福推出以旧换新活动](https://shanfudianzi.github.io/news/c-tradein.html) : 上海善福推出以旧换新活动：旧机折价换购新到库二手分析仪器，帮助客户以更低成本完成设备升级，盘活闲置资产，流程简便、估价透明，覆盖主流品牌机型。
+- [上海善福仓库扩容升级](https://shanfudianzi.github.io/news/c-warehouse.html) : 上海善福仓库扩容升级：出库与质检流程进一步优化，入库二手仪器经外观、电气、性能三级检测后交付，保障到手即可稳定使用，交付更及时可靠，服务更有保障。
+- [上海善福开通微信即时咨询](https://shanfudianzi.github.io/news/c-wechat.html) : 上海善福开通微信即时咨询：客户可通过微信快速询价，获取二手分析仪器的型号、成色、价格与质保信息，沟通更便捷，售前售后一体响应，全程跟进订单。
+- [上海善福新到货 SCIEX QTRAP 4500 液质联用仪（二手现货）](https://shanfudianzi.github.io/news/c-new-sciex-qtrap-4500.html) : 上海善福电子科技有限公司新到货 SCIEX QTRAP 4500 三重四极杆-线性离子阱液质联用仪（二手现货）：成色良好、运行稳定，兼具 MRM 高灵敏定量与离…
+- [上海善福服务内容介绍：销售·租赁·维修·回收·实验室搬迁](https://shanfudianzi.github.io/news/c-services-intro.html) : 上海善福电子科技有限公司提供二手分析仪器销售、租赁、维修保养、回收与实验室搬迁一站式全链路服务，覆盖液相色谱、气相色谱、液质联用、ICP-MS、光谱 等品类，服…
+- [上海善福新到货 TA Instruments DMA Q800 动态力学分析仪（二手现货）](https://shanfudianzi.github.io/news/c-new-dma-q800.html) : 上海善福电子科技有限公司新到货 TA Instruments（沃特世 TA）DMA Q800 动态力学分析仪（二手现货）：成色良好、运行稳定，可测储能模量、损耗…
+- [上海善福新到货 AB SCIEX Triple Quad 5500 搭配 Eksigent ekspert ultraL…](https://shanfudianzi.github.io/news/c-new-sciex-tq5500-eksigent-ultralc.html) : 上海善福电子科技有限公司新到货 AB SCIEX Triple Quad 5500 三重四极杆质谱仪搭配 Eksigent ekspert ultraLC 10…
+- [赛默飞 Orbitrap 高分辨液质联用系统 二手供应](https://shanfudianzi.github.io/news/c-orbitrap-vanquish-lcms-supply.html) : 上海善福电子科技有限公司长期供应二手赛默飞（Thermo Fisher）Orbitrap 高分辨液质联用系统，支持 Orbitrap Exploris 480/…
+- [上海善福电子二手供应 Waters Xevo TQ / TQ-S 三重四极杆质谱仪](https://shanfudianzi.github.io/news/c-waters-xevo-tq-tqs-lcms-supply.html) : 上海善福电子科技有限公司二手现货供应 Waters（沃特世）Xevo TQ / TQ-S 三重四极杆质谱仪，可搭配 ACQUITY UPLC i-Class 超…
+- [SCIEX QTRAP 6500+ 液质联用仪 & ExionLC 系列液相，整套系统已检测完毕（二手供应）](https://shanfudianzi.github.io/news/c-sciex-qtrap-6500-exionlc-frontcheck.html) : 上海善福电子科技有限公司一套 SCIEX QTRAP 6500+ 三重四极杆-线性离子阱液质联用仪搭配 ExionLC 系列液相色谱系统，整套系统已检测完毕，二…
+- [SCIEX QTRAP 6500+ 液质联用仪已出货、可订货（二手供应）](https://shanfudianzi.github.io/news/c-sciex-qtrap-6500-shipped-orderable.html) : 上海善福电子科技有限公司二手 SCIEX QTRAP 6500+ 液质联用仪，已出货，可订货；兼具 MRM 定量与 EPI 定性能力，用于农兽药残留、生物样本等…
+- [降本增效驱动，二手分析仪器采购成新趋势](https://shanfudianzi.github.io/news/i-trend-2026.html) : 在科研与检测预算趋紧、强调资产效率的背景下，越来越多实验室转向成色优良、经过质检的二手进口分析仪器。相比新机，二手仪器价格优势明显，主流品牌机型技术成熟、配件充…
+- [绿色采购：二手仪器契合双碳目标](https://shanfudianzi.github.io/news/i-green.html) : 延长分析仪器的使用寿命本身就是一种减碳行为。通过回收与再流通，二手分析仪器减少了制造环节的能耗与电子废弃物，契合绿色低碳的采购理念，延长设备生命周期。
+- [选型建议：按检测项目匹配机型配置](https://shanfudianzi.github.io/news/i-selection.html) : 液相色谱适合大部分化合物定量；气质联用（GCMS）在挥发性有机物定性上优势明显；液质联用（LCMS）常见于农残、药残等高灵敏定量。建议结合检测标准与通量需求，由…
+- [质谱联用仪二手流通活跃](https://shanfudianzi.github.io/news/i-lcms-active.html) : 质谱联用仪二手流通活跃：LCMS/GCMS 成交易主力，主流品牌机型成色优良、配件充足，成为实验室高性价比的配置选择，流通高效便捷，供货稳定。
+- [气相色谱仪检测器怎么搭配？常见检测器类型与选型要点](https://shanfudianzi.github.io/news/i-gc-detector-matching.html) : 气相色谱仪检测器的搭配取决于目标化合物与检测目的：FID 氢火焰离子化检测器对绝大多数有机物响应灵敏、线性范围宽，是常规定量选择；TCD 热导检测器通用性强，适…
+
 ## 常见问题（精选）
 - [二手分析仪器如何保证质量？](https://shanfudianzi.github.io/news_faq.html#q1)
 - [仪器租赁和采购哪个更划算？](https://shanfudianzi.github.io/news_faq.html#q2)
@@ -60,6 +126,7 @@
 - [实验室搬迁会损坏仪器吗？](https://shanfudianzi.github.io/news_faq.html#q13)
 
 ## 联系方式
+- 官网：https://www.shanfudianzi.com
 - 电话：+86-13641683222
 - 邮箱：shanfudianzi-services@outlook.com
 - 地址：临港嘉定科技城

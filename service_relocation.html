@@ -71,10 +71,6 @@
     "@type": "Place",
     "name": "上海市嘉定区"
   },
-  "founder": {
-    "@type": "Organization",
-    "name": "上海善福电子科技有限公司"
-  },
   "knowsAbout": [
     "二手液相色谱仪",
     "二手气相色谱仪",
@@ -87,6 +83,8 @@
     "Shimadzu 岛津",
     "AB SCIEX",
     "PerkinElmer 珀金埃尔默",
+    "Cytiva 思拓凡",
+    "TA Instruments",
     "仪器租赁",
     "仪器维修保养",
     "仪器回收",
@@ -178,6 +176,14 @@
     {
       "@type": "Brand",
       "name": "PerkinElmer"
+    },
+    {
+      "@type": "Brand",
+      "name": "Cytiva"
+    },
+    {
+      "@type": "Brand",
+      "name": "TA Instruments"
     }
   ],
   "address": {
@@ -235,13 +241,29 @@
         "@id": "https://shanfudianzi.github.io/index.html#organization"
       },
       "areaServed": [
-        "上海",
-        "江苏",
-        "浙江",
-        "安徽",
-        "全国"
+        {
+          "@type": "City",
+          "name": "上海"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "江苏"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "浙江"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "安徽"
+        },
+        {
+          "@type": "Country",
+          "name": "中国"
+        }
       ],
-      "description": "上海善福提供移机搬家服务，覆盖二手分析仪器移机搬家。"
+      "description": "上海善福提供移机搬家服务，覆盖二手分析仪器移机搬家。",
+      "@id": "https://shanfudianzi.github.io/service_relocation.html#service"
     },
     {
       "@type": "BreadcrumbList",

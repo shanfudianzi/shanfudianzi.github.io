@@ -6,7 +6,7 @@
   <atom:link href="https://shanfudianzi.github.io/news.xml" rel="self" type="application/rss+xml" />
   <description>上海善福电子科技有限公司 二手分析仪器新闻动态与行业资讯订阅源。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Fri, 20 Nov 2026 14:53:00 -0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 12:31:31 -0000</lastBuildDate>
   <generator>build_site.py</generator>
   <item>
     <title>上海善福十二周年：累计服务客户突破 500 家</title>
@@ -100,6 +100,13 @@
     <description><![CDATA[上海善福电子科技有限公司一套 SCIEX QTRAP 6500+ 三重四极杆-线性离子阱液质联用仪搭配 ExionLC 系列液相色谱系统，整套系统已检测完毕，二手供应：QTRAP 6500+ 兼具 MRM 高灵敏定量与线性离子阱 EPI 定性能力，适用于农兽药残留、生物样本与代谢组学等痕量分析；ExionLC 液相提供高压梯度、自动进样与柱温控制。整套系统经检测成色良好、运行稳定，可提供检测报告、安装调试、操作培训与质保，服务上海、江苏、浙江、安徽及全国客户。]]></description>
   </item>
   <item>
+    <title>SCIEX QTRAP 6500+ 液质联用仪已出货、可订货（二手供应）</title>
+    <link>https://shanfudianzi.github.io/news/c-sciex-qtrap-6500-shipped-orderable.html</link>
+    <guid isPermaLink="true">https://shanfudianzi.github.io/news/c-sciex-qtrap-6500-shipped-orderable.html</guid>
+    <pubDate>Wed, 25 Nov 2026 09:00:00 +0800</pubDate>
+    <description><![CDATA[上海善福电子科技有限公司二手 SCIEX QTRAP 6500+ 液质联用仪，已出货，可订货；兼具 MRM 定量与 EPI 定性能力，用于农兽药残留、生物样本等痕量分析；可提供检测报告、安装调试与质保，服务上海、江苏、浙江、安徽及全国。]]></description>
+  </item>
+  <item>
     <title>降本增效驱动，二手分析仪器采购成新趋势</title>
     <link>https://shanfudianzi.github.io/news/i-trend-2026.html</link>
     <guid isPermaLink="true">https://shanfudianzi.github.io/news/i-trend-2026.html</guid>
@@ -126,6 +133,13 @@
     <guid isPermaLink="true">https://shanfudianzi.github.io/news/i-lcms-active.html</guid>
     <pubDate>Wed, 25 Mar 2026 08:45:54 +0800</pubDate>
     <description><![CDATA[质谱联用仪二手流通活跃：LCMS/GCMS 成交易主力，主流品牌机型成色优良、配件充足，成为实验室高性价比的配置选择，流通高效便捷，供货稳定。]]></description>
+  </item>
+  <item>
+    <title>气相色谱仪检测器怎么搭配？常见检测器类型与选型要点</title>
+    <link>https://shanfudianzi.github.io/news/i-gc-detector-matching.html</link>
+    <guid isPermaLink="true">https://shanfudianzi.github.io/news/i-gc-detector-matching.html</guid>
+    <pubDate>Wed, 25 Nov 2026 09:00:00 +0800</pubDate>
+    <description><![CDATA[气相色谱仪检测器的搭配取决于目标化合物与检测目的：FID 氢火焰离子化检测器对绝大多数有机物响应灵敏、线性范围宽，是常规定量选择；TCD 热导检测器通用性强，适合永久气体与无机物；ECD 对卤素等电负性化合物灵敏度高，常用于农残留；FPD/NPD 对硫磷、氮磷化合物具高选择性；气质联用 GC-MS 则兼顾定性与定量，适合未知物筛查与复杂基质确证。上海善福电子科技有限公司建议按检测标准、基质与通量需求选择检测器配置，可提供二手气相色谱仪与气质联用仪的选型咨询，服务上海、江苏、浙江、安徽及全国客户。]]></description>
   </item>
 </channel>
 </rss>
